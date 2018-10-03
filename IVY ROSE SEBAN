@@ -1,0 +1,4 @@
+list_name=("raji","mridula","angel")
+print("Enter the index of the element to be capitalized")
+i=int(input())
+print(list_name[i].upper())
