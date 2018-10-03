@@ -1,0 +1,7 @@
+a=input("Enter your sentence")
+l=len(a)
+x=0
+for i in range(l):
+	if a[i]==' ':
+		x=x+1
+print("The total number of words is",x)
